@@ -1,0 +1,11 @@
+Instructions to run the program
+
+1)Define M. Run the program
+2)The program asks you to select a numerical from 1-6
+3)Select a numerical based on the task you want to perform
+4)Based on the numerical you have selected the program performs speciic tasks and asks you for inputs if needed.
+5)You need to give valid inputs
+6)The program stops when the task you asked for is completed
+7)Everything is saved in the Dictionary M
+8)Each student's details are saved in a dictionary which is named after the student himself in M.
+Note: In order to perform tasks you first need to input data by selecting 1 and enrolling all the students' data.initially M will be empty.
